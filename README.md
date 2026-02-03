@@ -64,8 +64,8 @@ uv sync
 
 ```bash
 export OPENAI_API_KEY="sk-..."
-export OPENAI_API_KEY="lsv2_..."
-export OPENAI_API_KEY="lsv2_..."
+export LANGSMITH_API_KEY="lsv2_..."
+export LANGCHAIN_API_KEY="lsv2_..."
 ```
 
 ### Запуск сервера в Docker
