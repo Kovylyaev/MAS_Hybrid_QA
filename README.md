@@ -56,7 +56,7 @@
 Установка:
 
 ```bash
-cd langgraph
+cd MAS_Hybrid_QA
 uv sync
 ```
 
