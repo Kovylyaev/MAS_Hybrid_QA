@@ -58,15 +58,12 @@
 ```bash
 cd MAS_Hybrid_QA
 uv sync
+source .venv/bin/activate
 ```
 
-Переменные окружения:
+API ключи:
 
-```bash
-export OPENAI_API_KEY="sk-..."
-export LANGSMITH_API_KEY="lsv2_..."
-export LANGCHAIN_API_KEY="lsv2_..."
-```
+Скопируйте файл .env.example, переименуйте в .env и заполните поля: OPENAI_API_KEY, LANGSMITH_API_KEY, LANGCHAIN_API_KEY
 
 ### Запуск сервера в Docker
 
